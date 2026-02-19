@@ -6,9 +6,13 @@
   "repository": "ssh://git@gitverse.ru:2222/wakutaipa/2026-1--study--mathmod.git",
   "author": "wakutaipa <1032239009@rudn.ru>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-customizable"
-	}
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
     }
+  },
+  "devDependencies": {
+    "standard-changelog": "^7.0.1",
+    "standard-version": "^9.5.0"
+  }
 }
