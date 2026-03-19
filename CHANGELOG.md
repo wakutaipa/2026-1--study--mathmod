@@ -1,3 +1,12 @@
+# [1.0.0](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/compare/v3.0.0...v1.0.0) (2026-03-19)
+
+
+### Features
+
+* **lab03:** added lab 3 ([6a1eed4](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/commits/6a1eed4b294bffeb3e01832b809e0c5d2c75fcbf))
+
+
+
 # 1.0.0 (2026-02-19)
 
 
