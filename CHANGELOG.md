@@ -1,20 +1,10 @@
 # [1.0.0](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/compare/v1.4.0...v1.0.0) (2026-04-13)
+# 1.4.0 (2026-03-30)
 
 
 ### Features
 
-* **main:** added lab05 files ([3fba215](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/commits/3fba2155c8e337e8da18279f0030a6fdbc88ba73))
-
-
-
-# [1.0.0](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/compare/v2.1.0...v1.0.0) (2026-03-30)
-
-
-### Features
-
-* **lab04:** files added ([a6b32b4](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/commits/a6b32b47c28a17af7b3b39707fa7ce52f9169878))
-
-
+* **lab04:** added lab 4 ([a6b32b4](https://gitverse.ru/wakutaipa/2026-1--study--mathmod/commit/a6b32b47c28a17af7b3b39707fa7ce52f9169878)
 
 # [1.0.0](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/compare/v3.0.0...v1.0.0) (2026-03-19)
 
