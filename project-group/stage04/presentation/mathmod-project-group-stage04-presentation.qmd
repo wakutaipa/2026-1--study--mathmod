@@ -237,7 +237,7 @@ n[N/2+1, N/2+1] = 1
 :::
 ::: {.column width="45%"}
 
-![Функция average_temperature](./image/13.png)
+![Функция average_temperature](./image/18.png)
 
 :::
 ::::::::::::::
@@ -256,7 +256,7 @@ n[N/2+1, N/2+1] = 1
 :::
 ::: {.column width="45%"}
 
-![Функция curvate](./image/14.png)
+![Функция curvate](./image/19.png)
 
 :::
 ::::::::::::::
