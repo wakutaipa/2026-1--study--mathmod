@@ -1,3 +1,7 @@
+# [1.0.0](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/compare/v2.4.0...v1.0.0) (2026-05-23)
+
+
+
 # [1.0.0](https://gitverse.ru/2222/wakutaipa/2026-1--study--mathmod/compare/v1.7.0...v1.0.0) (2026-05-14)
 
 
